@@ -1,0 +1,4 @@
+module(
+    name = "rules_dummy_verilog",
+    version = "0.0.1",
+)
