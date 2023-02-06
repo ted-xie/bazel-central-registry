@@ -1,5 +1,5 @@
 {
-    "integrity": "wrvw483EVRHokeUiEorBKc23hw/bnSTUInFSKvflBlA=",
+    "integrity": "sha256-wrvw483EVRHokeUiEorBKc23hw/bnSTUInFSKvflBlA=",
     "strip_prefix": "rules_android-0.0.1",
     "url": "https://github.com/ted-xie/rules_dummy_verilog/archive/refs/tags/v0.0.1.tar.gz",
     "patch_strip": 0,
